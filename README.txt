@@ -1,0 +1,1 @@
+Mapping land use change in Santa Fe, Veraguas, Panama.
